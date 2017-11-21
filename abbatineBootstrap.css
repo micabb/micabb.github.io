@@ -1,0 +1,18 @@
+.panel-heading,.panel-footer{
+text-align: center;	
+}
+h1{
+color:hotpink;
+}
+#home{
+	background-color: lightblue
+}
+#b1{
+	background-color: lightcyan
+}
+#b2{
+background-color: lightgray
+}
+.jumbotron{
+	background-color: lightpink
+}
